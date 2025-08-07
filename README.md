@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Verilog 8-bit Register
 
 This project implements a simple 8-bit register with enable and reset control.
@@ -17,3 +18,7 @@ This project implements a simple 8-bit register with enable and reset control.
 ## 📘 How to run
 
 Use Vivado's simulator (xsim) to run the testbench:
+=======
+# verilog-register
+A simple 8-bit register written in verilog
+>>>>>>> d70683bb792cd86da1a4a1d71415fc3cc798d183
